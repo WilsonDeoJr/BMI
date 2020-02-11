@@ -1,12 +1,15 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 
 # BMI Calculator 💪
 
 A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling.
+
+# Finished Project
+
 I added a drawer to select color theme.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Finished App](https://github.com/WilsonDeoJr/BMI/tree/master/images/pic1.png)
+
+![Drawer Theme Color](https://github.com/WilsonDeoJr/BMI/tree/master/images/pic2.png)
 
 ## What I learned
 
@@ -23,5 +26,5 @@ I added a drawer to select color theme.
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
 # BMI-calculator

@@ -7,9 +7,9 @@ A Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Va
 
 I added a drawer to select color theme.
 
-![Finished App](https://github.com/WilsonDeoJr/BMI/tree/master/images/pic1.png)
+![Finished App](images/pic1.PNG)
 
-![Drawer Theme Color](https://github.com/WilsonDeoJr/BMI/tree/master/images/pic2.png)
+![Drawer Theme Color](images/pic2.PNG)
 
 ## What I learned
 
